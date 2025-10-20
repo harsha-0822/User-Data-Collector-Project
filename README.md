@@ -12,3 +12,19 @@ It demonstrates the end-to-end setup of a **LAMP environment**, database configu
   - Country  
 - File upload support with validation
 - Test pages to verify PHP and DB connectivity
+
+
+## 📸 Screenshots
+
+| Description | Screenshot |
+|--------------|-------------|
+| **Database Setup** | ![Database](screenshots/database.png) |
+| **Inserting User Inputs** | ![Inserting Inputs](screenshots/insterting_inputs.png) |
+| **Login Page** | ![Login Page](screenshots/login.png) |
+| **Upload Page** | ![Uploads Page](screenshots/uploads.png) |
+| **Output Display** | ![Output](screenshots/output.png) |
+| **Database Server (IP Configuration)** | ![DB Server](screenshots/ip_addr_DBserver.png) |
+| **Web Server (IP Configuration)** | ![Web Server](screenshots/ip_addr_webserver.png) |
+| **File Transfer via WinSCP** | ![WinSCP](screenshots/WinSCP.png) |
+
+---
