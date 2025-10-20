@@ -19,7 +19,7 @@ It demonstrates the end-to-end setup of a **LAMP environment**, database configu
 | Description | Screenshot |
 |--------------|-------------|
 | **Database Setup** | ![Database](screenshots/database.png) |
-| **Inserting User Inputs** | ![Inserting Inputs](screenshots/insterting_inputs.png) |
+| **Inserting User Inputs** | ![Inserting Inputs](screenshots/intserting_inputs.png) |
 | **Login Page** | ![Login Page](screenshots/login.png) |
 | **Upload Page** | ![Uploads Page](screenshots/uploads.png) |
 | **Output Display** | ![Output](screenshots/output.png) |
